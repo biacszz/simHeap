@@ -26,7 +26,7 @@ O menu interativo oferece as seguintes opções para manipulação do heap:
 | Operação | Descrição |
 | :--- | :--- |
 | **Alocar Memória (`new`)** | Solicita um bloco de memória de um determinado tamanho, usando a estratégia de alocação atual. |
-| **Desalocar Memória (`del`)** | Libera um bloco alocado por nome. Inclui a **coalescência** (fusão) de blocos livres adjacentes. |
+| **Desalocar Memória (`del`)** | Libera um bloco alocado por nome. Inclui a fusão de blocos livres adjacentes. |
 | **Atribuir Referência (`=`)** | Simula a atribuição de ponteiros: a variável de destino passa a **apontar para a mesma região** do heap que a variável fonte. |
 | **Visualizar Estado do Heap** | Imprime o mapa atual da memória, mostrando blocos livres (`.`) e ocupados (`#`), além das listas de variáveis alocadas e áreas livres. |
 | **Reiniciar Heap** | Zera o estado da simulação. |
