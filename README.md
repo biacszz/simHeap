@@ -1,4 +1,3 @@
-````markdown
 # Simulador de Gerenciamento de Heap
 
 Um simulador interativo em C projetado para demonstrar e comparar diferentes estratégias de alocação de memória dinâmica (heap). Este projeto permite visualizar o comportamento de cada algoritmo frente à fragmentação de memória, alocação e desalocação de blocos.
@@ -70,5 +69,3 @@ Siga o menu de comandos para escolher a estratégia desejada e começar a simula
 ## Contribuições
 
 Este projeto foi inicialmente desenvolvido como trabalho acadêmico para fins educacionais e de demonstração de algoritmos de alocação de memória. Contribuições são bem-vindas!
-
-```
